@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "keil",
+            "includePath": [
+                "e:\\STM\\3.Practice\\PWM(TIM)\\.\\CMSIS",
+                "e:\\STM\\3.Practice\\PWM(TIM)\\.\\USER",
+                "e:\\STM\\3.Practice\\PWM(TIM)\\.\\FWLib\\inc",
+                "e:\\STM\\3.Practice\\PWM(TIM)\\.\\FWLib\\src",
+                "C:\\Keil_v5\\ARM\\ARMCC\\include"
+            ],
+            "defines": [
+                "__CC_ARM",
+                "__forceinline=",
+                "__inline=",
+                "__asm(x)=",
+                "__declspec(x)=",
+                "__attribute__(x)=",
+                "__nonnull__(x)=",
+                "__int64=int",
+                "__irq=",
+                "__swi=",
+                "__weak=",
+                "__register=",
+                "__pure=",
+                "__value_in_regs=",
+                "USE_STDPERIPH_DRIVER",
+                "STM32F10X_HD"
+            ],
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
